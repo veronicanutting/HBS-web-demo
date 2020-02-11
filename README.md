@@ -20,7 +20,8 @@ Then add some HTML code. Or copy the basic HTML from https://www.w3schools.com/h
 <p>My first paragraph.</p>
 
 </body>
-</html>```
+</html>
+```
 
 You'll have to "Commit" your file with a title. You could put something like "first commit."
 
