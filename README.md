@@ -12,7 +12,7 @@ Under "Quick Setup," you'll see a link to do so. We're going to be working with 
 Name your file something like `index.html`
 Then add some HTML code. Or copy the basic HTML from https://www.w3schools.com/html/html_basic.asp below:
 
-<!DOCTYPE html>
+```<!DOCTYPE html>
 <html>
 <body>
 
@@ -20,7 +20,7 @@ Then add some HTML code. Or copy the basic HTML from https://www.w3schools.com/h
 <p>My first paragraph.</p>
 
 </body>
-</html>
+</html>```
 
 You'll have to "Commit" your file with a title. You could put something like "first commit."
 
