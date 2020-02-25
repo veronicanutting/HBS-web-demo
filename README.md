@@ -1,4 +1,4 @@
-# testingmba
+# HBS Website Demo
 Simple Website Demo
 
 Instructions for Creating a Simple Website Using GhPages!
